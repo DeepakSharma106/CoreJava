@@ -7,6 +7,10 @@ class Window {
 }
 
 class House {
+    {
+        //instance initialization
+        Window w7 = new Window(17);
+    }
     Window w1 = new Window(11);
 
     House(){
